@@ -30,7 +30,5 @@ introduction: |
   Reach out on GitHub by @-mentioning the various developers.
   You can also email necko@mozilla.com to reach the team.
 
-products:
-- Core: ['Networking', 'Networking: HTTP']
 repositories:
 - mozilla/neqo: good first issue
